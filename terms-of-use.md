@@ -85,9 +85,9 @@ permalink: terms-of-use.html
 
 本アプリケーション及び本サービスに置ける利用者情報の取り扱いに関するお問い合わせは、以下のメールアドレス・電話でお受けいたします。
 
-![email](http://www.festa-tohoku.org/contact/address_info.png)
+![email](http://www.festa-tohoku.org/contact/address_info.png)  
 022-795-7849
 
-〒980-0862
-宮城県仙台市青葉区川内41
+〒980-0862  
+宮城県仙台市青葉区川内41  
 東北大学川内北キャンパス内 東北大学祭事務局
