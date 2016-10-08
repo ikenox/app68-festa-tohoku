@@ -1,6 +1,6 @@
 ---
-layout: post
-title: オープンソースライセンス - 東北大学祭公式アプリ
+layout: default
+title: オープンソースライセンス
 permalink: licenses.html
 ---
 

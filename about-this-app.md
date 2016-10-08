@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 東北大学祭公式アプリについて
 permalink: about-this-app.html
 ---

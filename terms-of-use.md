@@ -1,6 +1,6 @@
 ---
-layout: post
-title: 利用規約 - 東北大学祭公式アプリ
+layout: default
+title: 利用規約
 permalink: terms-of-use.html
 ---
 
