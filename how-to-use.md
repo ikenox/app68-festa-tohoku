@@ -24,7 +24,7 @@ permalink: how-to-use.html
 
 - [タイムライン](#timeline)
 
-    - [投稿を見る](#see-posts)
+    - [タイムラインを見る](#see-posts)
 
     - [タイムラインに投稿する](#post-to-timeline)
 
@@ -68,21 +68,27 @@ permalink: how-to-use.html
 
 ### <a name="planning-detail"> 模擬店/企画/イベントの詳細を見る
 
-リスト中から詳細を見たいものをタップすると、詳細な説明を見ることができます。  
+模擬店/企画またはイベントのリスト中から詳細を見たいものをタップすると、詳細な説明を見ることができます。  
 
 ![企画詳細]({{site.baseurl}}/img/planning-detail.png)
 
-詳細ページ中のマップアイコン(iOS: Android:)をタップすると、地図上で場所を確認することができます。
+#### 地図上で場所を確認する
+
+詳細ページ中のマップアイコン(iOS: ![iOSのマップアイコン]({{site.baseurl}}/img/ios-map-icon.png) Android: ![Androidのマップアイコン]({{site.baseurl}}/img/android-map-icon.png) )をタップすると、地図上で場所を確認することができます。
 
 ### <a name="planning-favorite"> お気に入り機能
 
 #### お気に入りに登録する
 
-詳細ページ中のハートアイコンをタップすると、その模擬店/企画/イベントをお気に入りに登録することができます。  
+![お気に入り登録ボタン]({{site.baseurl}}/img/detail-favorite.png)
+
+模擬店/企画またはステージの詳細ページ中のハートアイコン ![お気に入りボタン]({{site.baseurl}}/img/favorite-icon.png) をタップすることで、その模擬店/企画またはステージをお気に入りに登録することができます。
 
 #### お気に入り一覧を見る
 
-模擬店/企画またはステージのリスト画面上部のハートアイコンをタップすることで、お気に入りに追加した模擬店/企画またはステージの一覧を見ることができます。
+![お気に入りリスト]({{site.baseurl}}/img/list-favorite.png)
+
+模擬店/企画またはステージのリスト画面上部のハートアイコン ![お気に入りボタン]({{site.baseurl}}/img/favorite-icon.png) をタップすることで、お気に入りに追加した模擬店/企画またはステージの一覧を見ることができます。
 
 ## <a name="map"> マップ
 
@@ -96,13 +102,21 @@ permalink: how-to-use.html
 
 ### <a name="see-map"> マップの見かた
 
+![マップ]({{site.baseurl}}/img/map.png)
+
 マップ画面中の色の付いている領域は、それぞれ以下の領域を表しています。
 
+```
 青色: 模擬店/屋外企画  
 緑色: 屋内企画  
 黄色: ステージイベント  
+```
+  
+![マップ上のピン]({{site.baseurl}}/img/map-pin.png)
 
-これらの領域に立っているピンをタップし、表示された吹き出しを再度タップすることで、その領域に何があるかをリストで表示します。
+各領域に立っているピンをタップしたときに表示される吹き出しを再度タップすることで、その領域にどんな模擬店/企画/イベントがあるかをリストで表示します。
+
+![マップ上のアイコン]({{site.baseurl}}/img/map-object.png)
 
 また、地図中のアイコンをタップすると、そこに何があるのかの簡潔な説明が表示されます。
 
@@ -116,7 +130,9 @@ permalink: how-to-use.html
 
     サイドメニューから『マップ』を選択します。
 
-### <a name="see-posts"> 投稿を見る
+### <a name="see-posts"> タイムラインを見る
+
+![タイムライン]({{site.baseurl}}/img/timeline.png)
 
 - リストの切り替え
 
@@ -126,21 +142,25 @@ permalink: how-to-use.html
     
     表示方法をリスト形式 ⇔ ギャラリー形式に切り替えることができます。
     
-    - iOS: 画面左上のアイコンをタップ
+    - iOS: 画面左上のアイコン ![ios-icon-gallery]({{site.baseurl}}/img/ios-icon-gallery.png) ⇔ ![android-icon-list]({{site.baseurl}}/img/ios-icon-list.png) をタップ
 
-    - Android: 画面右上のアイコンをタップ
+    - Android: 画面右上のアイコン ![android-icon-gallery]({{site.baseurl}}/img/android-icon-gallery.png) ⇔ ![android-icon-list]({{site.baseurl}}/img/android-icon-list.png) をタップ
 
-- 投稿の詳細を見る
+#### 投稿の詳細を見る
 
-    リストをタップすると、投稿の詳細を見ることができます。
+リストをタップすると、投稿の詳細を見ることができます。
 
-    - Twitterアイコンをタップすると、その投稿をTwitterで共有することができます。
+![投稿詳細画面]({{site.baseurl}}/img/post-detail.png)
 
-    - そのほか、『 … 』アイコンからは、不適切な投稿を通報したり、自分の投稿の場合は削除することができます。
+- Twitterアイコンをタップすると、その投稿をTwitterで共有することができます。
+
+- そのほか、『 ![icon-etc]({{site.baseurl}}/img/icon-etc.png) 』アイコンからは、不適切な投稿を通報したり、自分の投稿の場合は削除することができます。
 
 ### <a name="post-to-timeline"> タイムラインに投稿する
 
-タイムライン画面右上のアイコンをタップすると、投稿フォームが表示されます。  
+タイムライン画面右上のアイコン ![マップ]({{site.baseurl}}/img/icon-new-post.png) をタップすると、投稿フォームが表示されます。  
+
+![新規投稿画面]({{site.baseurl}}/img/new-post.png)
 
 - 投稿の際は、タイトルと写真が必須項目です。
 
@@ -150,9 +170,13 @@ permalink: how-to-use.html
 
 タイムライン上または投稿の詳細画面から、その投稿にリアクションをつけることができます。  
 
+![リアクション]({{site.baseurl}}/img/reaction-buttons.png)
+
 - 既についているリアクションをタップすると、そのリアクションに+1されます。
 
-- 『 + 』ボタンをタップすると、全リアクション一覧が表示され、そこからリアクションを選択して付与することができます。
+- 『 ![+]({{site.baseurl}}/img/plus-button.png) 』ボタンをタップすると、全リアクション一覧が表示され、そこからリアクションを選択して付与することができます。
+
+- 沢山の人にリアクションされた投稿は、人気の投稿としてピックアップされます。
 
 ## <a name="others"> その他
 
@@ -160,7 +184,7 @@ permalink: how-to-use.html
 
 - iOS
 
-    アプリのトップ画面右上の『 i 』ボタンをタップします。
+    アプリのトップ画面右上の『 ![icon-info]({{site.baseurl}}/img/ios-icon-info.png) 』ボタンをタップします。
 
 - Android
 
